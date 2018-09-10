@@ -12,8 +12,8 @@ password = browser.find_element_by_id( "pass" )
 submit   = browser.find_element_by_id( "u_0_2"   )
   
 
-username.send_keys( "mak1729" )
-password.send_keys( "i@mayank9154" )
+username.send_keys( "your_facebook_username_or_email" )
+password.send_keys( "your_facebook_password" )
   
 
 submit.click()

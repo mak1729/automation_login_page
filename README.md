@@ -59,5 +59,5 @@ Installation
 	Windows
 
 	Chrome Driver :- Download the ChromeDriver binary for your platform here -http://chromedriver.chromium.org/downloads
-					 Include the ChromeDriver location in your PATH environment variable
+			 Include the ChromeDriver location in your PATH environment variable
    
